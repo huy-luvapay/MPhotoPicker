@@ -1,5 +1,5 @@
 PODS:
-  - MPhotoPicker (0.1.1)
+  - MPhotoPicker (0.1.3)
 
 DEPENDENCIES:
   - MPhotoPicker (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MPhotoPicker: 6d8c4d941754ea5d87c13d142bbbe6a0882ffb3f
+  MPhotoPicker: 87e27594ef9b924c789850e4389029eb502e4bb0
 
 PODFILE CHECKSUM: 7d80fe8c8a1bc52389589d69017a373617125f3f
 
