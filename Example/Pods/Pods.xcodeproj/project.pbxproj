@@ -175,9 +175,9 @@
 		5019F6EA0695A80BFBF71E9FE8233A27 /* zl_editImage_tag@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_editImage_tag@2x.png"; sourceTree = "<group>"; };
 		50E70C34B03EA1ACC09DCFD1F1162EB1 /* zl_mosaic_selected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_mosaic_selected@2x.png"; sourceTree = "<group>"; };
 		5162DB1A27BFABE12DBCBD6D543BCD60 /* zl_arrow_down@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_arrow_down@3x.png"; sourceTree = "<group>"; };
-		528B3F97D036AD10D7A25F718AD80FEB /* MPhotoPicker.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MPhotoPicker.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		528B3F97D036AD10D7A25F718AD80FEB /* MPhotoPicker.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MPhotoPicker.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5766C3396FFBD0F26EAB0245949AA9DF /* UIColor+ZLPhotoBrowser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIColor+ZLPhotoBrowser.swift"; sourceTree = "<group>"; };
-		590D77784DA76244FC8C4F4D89582C92 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		590D77784DA76244FC8C4F4D89582C92 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5AF6A61024EC7046811345ADAC7BF056 /* zl_arrow_down@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_arrow_down@2x.png"; sourceTree = "<group>"; };
 		5D4CBF6E66843B1FCEB7ECD8058FE02E /* zl_rotateimage@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_rotateimage@2x.png"; sourceTree = "<group>"; };
 		5D524BAE870644B19D391720C7577D55 /* zl_rotateimage@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_rotateimage@3x.png"; sourceTree = "<group>"; };
@@ -211,7 +211,7 @@
 		9A2E9AA217C1029C4A985C3AE5C12109 /* MPhotoPicker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MPhotoPicker.modulemap; sourceTree = "<group>"; };
 		9C7FE3ADC933A5867E16900271E2B1D3 /* ZLPreviewImagePopAnimatedTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ZLPreviewImagePopAnimatedTransition.swift; sourceTree = "<group>"; };
 		9CD0D13FEBAA97B627D8C781E122B485 /* zl_focus@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_focus@3x.png"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DA596F09639BF8E17338D5EE1A721C6 /* zl_retake@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_retake@2x.png"; sourceTree = "<group>"; };
 		9DD35426997D163B031EA584F5AC290F /* zl_navBack@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_navBack@2x.png"; sourceTree = "<group>"; };
 		9E8DBA4BCF8C20C54F22B19BDDC23ACF /* Cell+ZLPhotoBrowser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Cell+ZLPhotoBrowser.swift"; sourceTree = "<group>"; };
@@ -223,7 +223,7 @@
 		AA7435C8F73F689B1D7F5E2E81F05F80 /* zl_drawLine@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_drawLine@2x.png"; sourceTree = "<group>"; };
 		AB116CF3BBCDCA1C4033269B40400045 /* zl_retake@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_retake@3x.png"; sourceTree = "<group>"; };
 		AC6E8655BC98F18367BCDA45258D9373 /* zl_btn_selected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_btn_selected@2x.png"; sourceTree = "<group>"; };
-		AE23456B598CC8EDF26F8EF058307781 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		AE23456B598CC8EDF26F8EF058307781 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AF2CEA58C93A7D000CF264E0E3AF8675 /* ZLImageNavController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ZLImageNavController.swift; sourceTree = "<group>"; };
 		B0485F36B1E12F01897F93D80252C99A /* ZLEmbedAlbumListView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ZLEmbedAlbumListView.swift; sourceTree = "<group>"; };
 		B2533DC750A660E2984100C4F6F6E1FF /* zl_revoke@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_revoke@3x.png"; sourceTree = "<group>"; };
@@ -235,12 +235,12 @@
 		C231B94019F6CC5B8E99CB4F57652F9B /* zl_clip@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_clip@3x.png"; sourceTree = "<group>"; };
 		C58162ED0AF52B1CDD386D6B081077F1 /* zl_videoLoadFailed@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_videoLoadFailed@2x.png"; sourceTree = "<group>"; };
 		C83902A54BAE7FED0DB4104FD224750E /* Bundle+ZLPhotoBrowser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Bundle+ZLPhotoBrowser.swift"; sourceTree = "<group>"; };
-		C85D6358ACC4C05E61E6600970553923 /* Pods_MPhotoPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MPhotoPicker_Example.framework; path = "Pods-MPhotoPicker_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C85D6358ACC4C05E61E6600970553923 /* Pods_MPhotoPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MPhotoPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA0DF7817BAC5B832B3C344B9AFFA24E /* MPhotoPicker.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MPhotoPicker.swift; sourceTree = "<group>"; };
 		CC5E44D4CD3261737DD05CDFDB4283C4 /* zl_btn_original_circle@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_btn_original_circle@2x.png"; sourceTree = "<group>"; };
 		CE7D95E94A9ECE690F972BF4B8D2B42E /* zl_videoLoadFailed@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_videoLoadFailed@3x.png"; sourceTree = "<group>"; };
 		CFACE281F0636A35351D17B989981B60 /* zl_ic_right@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "zl_ic_right@2x.png"; sourceTree = "<group>"; };
-		D013C355C99FBA190732EAD595D926C3 /* MPhotoPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MPhotoPicker.framework; path = MPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D013C355C99FBA190732EAD595D926C3 /* MPhotoPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MPhotoPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1482BCB8033389E803AE8BE5F04ED28 /* ZLAlbumListCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ZLAlbumListCell.swift; sourceTree = "<group>"; };
 		D14CDCF505E20A5B61835A55542CF4B1 /* Pods-MPhotoPicker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MPhotoPicker_Example-umbrella.h"; sourceTree = "<group>"; };
 		D64D8BF157AC66DA7B80DC9389B9EEBD /* MPhotoPicker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MPhotoPicker-Info.plist"; sourceTree = "<group>"; };
@@ -302,7 +302,6 @@
 			children = (
 				77E5DB3A44D1579336B853C36BED8DE9 /* ZLCustomCamera.swift */,
 			);
-			name = Camera;
 			path = Camera;
 			sourceTree = "<group>";
 		};
@@ -360,7 +359,6 @@
 				2FD474A55A8709F96B1EE29E89B32EA2 /* UIControl+ZLPhotoBrowser.swift */,
 				6F9F84FF0EDE7D0B7900C60C7A8DE3DB /* UIImage+ZLPhotoBrowser.swift */,
 			);
-			name = Extensions;
 			path = Extensions;
 			sourceTree = "<group>";
 		};
@@ -412,7 +410,6 @@
 				A3252101E826156873E9A180A4651732 /* ZLThumbnailViewController.swift */,
 				2A0797E3894C9B41653705FCA8787E11 /* ZLVideoManager.swift */,
 			);
-			name = General;
 			path = General;
 			sourceTree = "<group>";
 		};
@@ -438,7 +435,6 @@
 				A3CF5E7E58436C5F7AF8439739946EE9 /* ZLEditImageViewController.swift */,
 				177595A1E5B95B91302230072C519B5E /* ZLEditVideoViewController.swift */,
 			);
-			name = Edit;
 			path = Edit;
 			sourceTree = "<group>";
 		};
@@ -449,7 +445,6 @@
 				9C7FE3ADC933A5867E16900271E2B1D3 /* ZLPreviewImagePopAnimatedTransition.swift */,
 				4897E9D916920BD20A1C38DD94F79A39 /* ZLPreviewImagePopInteractiveTransition.swift */,
 			);
-			name = Animation;
 			path = Animation;
 			sourceTree = "<group>";
 		};
@@ -565,7 +560,6 @@
 				C58162ED0AF52B1CDD386D6B081077F1 /* zl_videoLoadFailed@2x.png */,
 				CE7D95E94A9ECE690F972BF4B8D2B42E /* zl_videoLoadFailed@3x.png */,
 			);
-			name = ZLPhotoBrowser.bundle;
 			path = ZLPhotoBrowser.bundle;
 			sourceTree = "<group>";
 		};
@@ -644,6 +638,10 @@
 			knownRegions = (
 				en,
 				Base,
+				"ja-US",
+				vi,
+				"zh-Hans",
+				"zh-Hant",
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = 3BC4266E5AD086AD623CFD8E3CAAE4BA /* Products */;
@@ -1078,8 +1076,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
