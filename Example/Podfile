@@ -3,9 +3,4 @@ use_frameworks!
 target 'MPhotoPicker_Example' do
   pod 'MPhotoPicker', :path => '../'
 
-  target 'MPhotoPicker_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

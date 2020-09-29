@@ -1,0 +1,16 @@
+PODS:
+  - MPhotoPicker (0.1.1)
+
+DEPENDENCIES:
+  - MPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  MPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MPhotoPicker: 6d8c4d941754ea5d87c13d142bbbe6a0882ffb3f
+
+PODFILE CHECKSUM: 7d80fe8c8a1bc52389589d69017a373617125f3f
+
+COCOAPODS: 1.9.3

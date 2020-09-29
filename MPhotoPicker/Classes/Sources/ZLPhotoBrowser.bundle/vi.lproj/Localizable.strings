@@ -1,0 +1,65 @@
+"previewCamera" = "Camera";
+"previewCameraRecord" = "Ghi";
+"previewAlbum" = "Album";
+"previewCancel" = "Hủy";
+
+"originalPhoto" = "Hình đầy đủ";
+"done" = " Xong ";
+"ok" = "OK";
+"editFinish" = "Xong";
+
+"back" = "Quay về";
+
+"edit" = "Sửa";
+"save" = "Lưu";
+"revert" = "Undo";
+
+"photo" = "Photos";
+"preview" = "Xem trước";
+
+"noPhotoTips" = "Không có hình ảnh";
+"notAllowMixSelect" = "Không chọn được video";
+
+"loading" = "Đang tải, đợi trong giây lát";
+"hudLoading" = "Đang tải...";
+
+"saveImageError" = "Lỗi khi lưu hình ảnh";
+"exceededMaxSelectCount" = "Số tối đa được chọn: %ld";
+"longerThanMaxVideoDuration" = "Unable to select video with a duration longer than %lds";
+"shorterThanMaxVideoDuration" = "Unable to select video with a duration shorter than %lds";
+"ZLPhotoBrowserMaxVideoSelectCountInMix" = "Số video tối đa được chọn: %ld";
+"ZLPhotoBrowserMinVideoSelectCountInMix" = "Video min select count: %ld";
+
+"noCameraAuthority" = "Hãy cho phép %@ truy cập camera thiết bị trong \"Settings\"->\"Privacy\"->\"Camera\"";
+"noPhotoLibratyAuthority" = "Hãy cho pjeps %@ truy cập ablum của bạn trong \"Settings\"->\"Privacy\"->\"Photos\"";
+"noMicrophoneAuthority" = "Hãy cho phép %@ truy cập Microphone thiết bị trong \"Settings\"->\"Privacy\"->\"Microphone\"";
+"cameraUnavailable" = "Camera không sẵn sàng";
+
+"iCloudPhotoLoadFaild" = "Thử lại sau khi tải về trong Photo album";
+"iCloudVideoLoadFaild" = "Không thể đồng bộ từ iCloud";
+
+"imageLoadFailed" = "tải lỗi";
+"saveVideoError" = "Lưu video lỗi";
+"timeout" = "Request timed out";
+
+"customCameraTips" = "Bấm vào để chụp hình và giữ để quay video";
+"customCameraTakePhotoTips" = "Bấm để chụp hình";
+"customCameraRecordVideoTips" = "giữ để quay video";
+"minRecordTimeTips" = "Video its nhất phải %lds";
+
+"cameraRoll" = "Recents";
+"panoramas" = "Panoramas";
+"videos" = "Videos";
+"favorites" = "Favorites";
+"timelapses" = "Time-Lapse";
+"recentlyAdded" = "Recently Added";
+"bursts" = "Bursts";
+"slomoVideos" = "Slo-mo";
+"selfPortraits" = "Selfies";
+"screenshots" = "Screenshots";
+"depthEffect" = "Portrait";
+"livePhotos" = "Live Photo";
+"animated" = "Animated";
+"myPhotoStream" = "My Photo Stream";
+
+"noTitleAlbumListPlaceholder" = "Tất cả hình ảnh";
