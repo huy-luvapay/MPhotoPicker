@@ -1,6 +1,6 @@
 {
   "name": "MPhotoPicker",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A short description of MPhotoPicker.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/huy-luvapay/MPhotoPicker",
@@ -13,13 +13,13 @@
   },
   "source": {
     "git": "https://github.com/huy-luvapay/MPhotoPicker.git",
-    "tag": "0.1.3"
+    "tag": "0.1.4"
   },
   "platforms": {
     "ios": "10.0"
   },
   "swift_versions": "5.0",
-  "source_files": "MPhotoPicker/Classes/**/*",
+  "source_files": "MPhotoPicker/Classes/**/*.{h,m,mm,swift}",
   "resources": [
     "MPhotoPicker/Classes/**/*.bundle"
   ],
