@@ -8,14 +8,14 @@
 import UIKit
 import Photos
 
-public class MPhotoPicker: NSObject {
+@objc public class MPhotoPicker: NSObject {
     
-    public static let shared: MPhotoPicker = {
+    @objc public static let shared: MPhotoPicker = {
         let instance = MPhotoPicker()
         return instance
     }()
     
-    func loadConfig() {
+    @objc func loadConfig() {
         
         ZLPhotoConfiguration.default().themeColorDeploy.previewBgColor = UIColor.black.withAlphaComponent(0.1)
         ZLPhotoConfiguration.default().themeColorDeploy.previewBtnBgColor = UIColor.white
@@ -54,6 +54,10 @@ public class MPhotoPicker: NSObject {
         ZLPhotoConfiguration.default().editImageClipRatios = [.custom, .wh1x1, .wh3x4, .wh16x9, ZLImageClipRatio(title: "2 : 1", whRatio: 2 / 1)]
         
         ZLPhotoConfiguration.default().languageType = ZLLanguageType.vietnamese
+    }
+    
+    @objc public func presentObjc(in viewController: UIViewController, selectedColor: UIColor, maxSelectCount: Int, isOnlySelectPhoto: Bool, completion: @escaping ([PHAsset]) -> Void) {
+        self.present(in: viewController, selectedColor: selectedColor, maxSelectCount: maxSelectCount, isOnlySelectPhoto: isOnlySelectPhoto, completion: completion)
     }
     
     public func present(in viewController: UIViewController, selectedColor: UIColor? = nil, maxSelectCount: Int? = nil, isOnlySelectPhoto: Bool? = nil, completion: @escaping ([PHAsset]) -> Void) {
